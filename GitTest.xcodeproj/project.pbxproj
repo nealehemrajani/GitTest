@@ -14,6 +14,15 @@
 		4823F9501E4C2A7200FBFB75 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4823F94E1E4C2A7200FBFB75 /* LaunchScreen.storyboard */; };
 		4823F95B1E4C2A7200FBFB75 /* GitTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4823F95A1E4C2A7200FBFB75 /* GitTestTests.swift */; };
 		4823F9661E4C2A7200FBFB75 /* GitTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4823F9651E4C2A7200FBFB75 /* GitTestUITests.swift */; };
+		4823F97C1E4C2F6600FBFB75 /* buyNowBtn.png in Resources */ = {isa = PBXBuildFile; fileRef = 4823F9731E4C2F6500FBFB75 /* buyNowBtn.png */; };
+		4823F97D1E4C2F6600FBFB75 /* buyNowBtn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4823F9741E4C2F6500FBFB75 /* buyNowBtn@2x.png */; };
+		4823F97E1E4C2F6600FBFB75 /* buyNowBtn@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4823F9751E4C2F6500FBFB75 /* buyNowBtn@3x.png */; };
+		4823F97F1E4C2F6600FBFB75 /* miraclePillEmoji.png in Resources */ = {isa = PBXBuildFile; fileRef = 4823F9761E4C2F6500FBFB75 /* miraclePillEmoji.png */; };
+		4823F9801E4C2F6600FBFB75 /* miraclePillEmoji@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4823F9771E4C2F6500FBFB75 /* miraclePillEmoji@2x.png */; };
+		4823F9811E4C2F6600FBFB75 /* miraclePillEmoji@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4823F9781E4C2F6500FBFB75 /* miraclePillEmoji@3x.png */; };
+		4823F9821E4C2F6600FBFB75 /* successIndicator.png in Resources */ = {isa = PBXBuildFile; fileRef = 4823F9791E4C2F6500FBFB75 /* successIndicator.png */; };
+		4823F9831E4C2F6600FBFB75 /* successIndicator@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4823F97A1E4C2F6600FBFB75 /* successIndicator@2x.png */; };
+		4823F9841E4C2F6600FBFB75 /* successIndicator@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4823F97B1E4C2F6600FBFB75 /* successIndicator@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +56,15 @@
 		4823F9611E4C2A7200FBFB75 /* GitTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4823F9651E4C2A7200FBFB75 /* GitTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestUITests.swift; sourceTree = "<group>"; };
 		4823F9671E4C2A7200FBFB75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4823F9731E4C2F6500FBFB75 /* buyNowBtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = buyNowBtn.png; path = "../../Downloads/MiraclePill-Assets/buyNowBtn.png"; sourceTree = "<group>"; };
+		4823F9741E4C2F6500FBFB75 /* buyNowBtn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "buyNowBtn@2x.png"; path = "../../Downloads/MiraclePill-Assets/buyNowBtn@2x.png"; sourceTree = "<group>"; };
+		4823F9751E4C2F6500FBFB75 /* buyNowBtn@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "buyNowBtn@3x.png"; path = "../../Downloads/MiraclePill-Assets/buyNowBtn@3x.png"; sourceTree = "<group>"; };
+		4823F9761E4C2F6500FBFB75 /* miraclePillEmoji.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = miraclePillEmoji.png; path = "../../Downloads/MiraclePill-Assets/miraclePillEmoji.png"; sourceTree = "<group>"; };
+		4823F9771E4C2F6500FBFB75 /* miraclePillEmoji@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "miraclePillEmoji@2x.png"; path = "../../Downloads/MiraclePill-Assets/miraclePillEmoji@2x.png"; sourceTree = "<group>"; };
+		4823F9781E4C2F6500FBFB75 /* miraclePillEmoji@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "miraclePillEmoji@3x.png"; path = "../../Downloads/MiraclePill-Assets/miraclePillEmoji@3x.png"; sourceTree = "<group>"; };
+		4823F9791E4C2F6500FBFB75 /* successIndicator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = successIndicator.png; path = "../../Downloads/MiraclePill-Assets/successIndicator.png"; sourceTree = "<group>"; };
+		4823F97A1E4C2F6600FBFB75 /* successIndicator@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "successIndicator@2x.png"; path = "../../Downloads/MiraclePill-Assets/successIndicator@2x.png"; sourceTree = "<group>"; };
+		4823F97B1E4C2F6600FBFB75 /* successIndicator@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "successIndicator@3x.png"; path = "../../Downloads/MiraclePill-Assets/successIndicator@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +99,15 @@
 				4823F9591E4C2A7200FBFB75 /* GitTestTests */,
 				4823F9641E4C2A7200FBFB75 /* GitTestUITests */,
 				4823F9431E4C2A7100FBFB75 /* Products */,
+				4823F9731E4C2F6500FBFB75 /* buyNowBtn.png */,
+				4823F9741E4C2F6500FBFB75 /* buyNowBtn@2x.png */,
+				4823F9751E4C2F6500FBFB75 /* buyNowBtn@3x.png */,
+				4823F9761E4C2F6500FBFB75 /* miraclePillEmoji.png */,
+				4823F9771E4C2F6500FBFB75 /* miraclePillEmoji@2x.png */,
+				4823F9781E4C2F6500FBFB75 /* miraclePillEmoji@3x.png */,
+				4823F9791E4C2F6500FBFB75 /* successIndicator.png */,
+				4823F97A1E4C2F6600FBFB75 /* successIndicator@2x.png */,
+				4823F97B1E4C2F6600FBFB75 /* successIndicator@3x.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -232,9 +259,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4823F97C1E4C2F6600FBFB75 /* buyNowBtn.png in Resources */,
+				4823F97F1E4C2F6600FBFB75 /* miraclePillEmoji.png in Resources */,
+				4823F9831E4C2F6600FBFB75 /* successIndicator@2x.png in Resources */,
+				4823F9841E4C2F6600FBFB75 /* successIndicator@3x.png in Resources */,
 				4823F9501E4C2A7200FBFB75 /* LaunchScreen.storyboard in Resources */,
+				4823F97D1E4C2F6600FBFB75 /* buyNowBtn@2x.png in Resources */,
 				4823F94D1E4C2A7200FBFB75 /* Assets.xcassets in Resources */,
+				4823F9811E4C2F6600FBFB75 /* miraclePillEmoji@3x.png in Resources */,
+				4823F97E1E4C2F6600FBFB75 /* buyNowBtn@3x.png in Resources */,
+				4823F9801E4C2F6600FBFB75 /* miraclePillEmoji@2x.png in Resources */,
 				4823F94B1E4C2A7200FBFB75 /* Main.storyboard in Resources */,
+				4823F9821E4C2F6600FBFB75 /* successIndicator.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
